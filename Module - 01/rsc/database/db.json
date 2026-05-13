@@ -1,0 +1,590 @@
+[
+  {
+    "id": 2,
+    "name": "Ballpoint Pen",
+    "description": "Smooth writing pen for everyday use",
+    "price": 25
+  },
+  {
+    "id": 4,
+    "name": "Product test - 3",
+    "description": "description - 3",
+    "price": 500
+  },
+  {
+    "id": 5,
+    "name": "USB-C Cable",
+    "description": "Fast-charging cable for compatible devices",
+    "price": 199
+  },
+  {
+    "id": 6,
+    "name": "Phone Charger",
+    "description": "Wall charger with standard fast charge support",
+    "price": 699
+  },
+  {
+    "id": 7,
+    "name": "Water Bottle",
+    "description": "Reusable stainless steel bottle for travel",
+    "price": 499
+  },
+  {
+    "id": 8,
+    "name": "Backpack",
+    "description": "Everyday backpack with padded laptop compartment",
+    "price": 1599
+  },
+  {
+    "id": 9,
+    "name": "Desk Lamp",
+    "description": "LED lamp with adjustable brightness levels",
+    "price": 1299
+  },
+  {
+    "id": 10,
+    "name": "Coffee Mug",
+    "description": "Ceramic mug for hot drinks",
+    "price": 149
+  },
+  {
+    "id": 11,
+    "name": "Bluetooth Speaker",
+    "description": "Portable speaker with rich stereo sound",
+    "price": 2199
+  },
+  {
+    "id": 12,
+    "name": "Headphones",
+    "description": "Over-ear headphones with clear audio",
+    "price": 2799
+  },
+  {
+    "id": 13,
+    "name": "Smart Watch",
+    "description": "Fitness watch with notifications and tracking",
+    "price": 5999
+  },
+  {
+    "id": 14,
+    "name": "Tablet Stand",
+    "description": "Adjustable stand for tablets and phones",
+    "price": 299
+  },
+  {
+    "id": 15,
+    "name": "Laptop Sleeve",
+    "description": "Protective sleeve for 13-inch laptops",
+    "price": 799
+  },
+  {
+    "id": 16,
+    "name": "Sunglasses",
+    "description": "UV-protection sunglasses with modern frame",
+    "price": 999
+  },
+  {
+    "id": 17,
+    "name": "T-Shirt",
+    "description": "Soft cotton t-shirt for casual wear",
+    "price": 399
+  },
+  {
+    "id": 18,
+    "name": "Jeans",
+    "description": "Classic denim jeans with straight fit",
+    "price": 1499
+  },
+  {
+    "id": 19,
+    "name": "Sneakers",
+    "description": "Comfortable everyday sneakers",
+    "price": 2499
+  },
+  {
+    "id": 20,
+    "name": "Jacket",
+    "description": "Lightweight jacket for cool weather",
+    "price": 3299
+  },
+  {
+    "id": 21,
+    "name": "Wallet",
+    "description": "Slim wallet with multiple card slots",
+    "price": 699
+  },
+  {
+    "id": 22,
+    "name": "Belt",
+    "description": "Leather belt for formal or casual outfits",
+    "price": 549
+  },
+  {
+    "id": 23,
+    "name": "Cap",
+    "description": "Adjustable baseball cap",
+    "price": 299
+  },
+  {
+    "id": 24,
+    "name": "Watch",
+    "description": "Analog watch with stainless steel strap",
+    "price": 1899
+  },
+  {
+    "id": 25,
+    "name": "Perfume",
+    "description": "Long-lasting fragrance for daily wear",
+    "price": 2599
+  },
+  {
+    "id": 26,
+    "name": "Soap Bar",
+    "description": "Gentle cleansing soap bar",
+    "price": 89
+  },
+  {
+    "id": 27,
+    "name": "Shampoo",
+    "description": "Hair shampoo for regular cleansing",
+    "price": 249
+  },
+  {
+    "id": 28,
+    "name": "Conditioner",
+    "description": "Hair conditioner for smooth finish",
+    "price": 269
+  },
+  {
+    "id": 29,
+    "name": "Toothbrush",
+    "description": "Soft-bristle toothbrush for daily care",
+    "price": 99
+  },
+  {
+    "id": 30,
+    "name": "Toothpaste",
+    "description": "Mint toothpaste for oral hygiene",
+    "price": 119
+  },
+  {
+    "id": 31,
+    "name": "Face Cream",
+    "description": "Moisturizing face cream for daily use",
+    "price": 399
+  },
+  {
+    "id": 32,
+    "name": "Sunscreen",
+    "description": "SPF sunscreen for outdoor protection",
+    "price": 699
+  },
+  {
+    "id": 33,
+    "name": "Notebook Backpack",
+    "description": "Stylish backpack for school and work",
+    "price": 1899
+  },
+  {
+    "id": 34,
+    "name": "Office Chair",
+    "description": "Ergonomic chair for long work sessions",
+    "price": 8999
+  },
+  {
+    "id": 35,
+    "name": "Standing Desk",
+    "description": "Adjustable desk for home office setups",
+    "price": 14999
+  },
+  {
+    "id": 36,
+    "name": "Mouse Pad",
+    "description": "Smooth mouse pad for precise tracking",
+    "price": 149
+  },
+  {
+    "id": 37,
+    "name": "Webcam",
+    "description": "HD webcam for calls and streaming",
+    "price": 1999
+  },
+  {
+    "id": 38,
+    "name": "Microphone",
+    "description": "USB microphone for clear voice recording",
+    "price": 3999
+  },
+  {
+    "id": 39,
+    "name": "Tripod",
+    "description": "Lightweight tripod for cameras and phones",
+    "price": 1299
+  },
+  {
+    "id": 40,
+    "name": "Camera Lens Cleaner",
+    "description": "Cleaning kit for camera and screen care",
+    "price": 199
+  },
+  {
+    "id": 41,
+    "name": "Power Bank",
+    "description": "Portable battery pack for charging on the go",
+    "price": 1799
+  },
+  {
+    "id": 42,
+    "name": "Flash Drive",
+    "description": "USB flash storage for file transfer",
+    "price": 399
+  },
+  {
+    "id": 43,
+    "name": "External Hard Drive",
+    "description": "Portable drive for backups and storage",
+    "price": 5499
+  },
+  {
+    "id": 44,
+    "name": "Router",
+    "description": "Wi-Fi router for home internet connections",
+    "price": 3299
+  },
+  {
+    "id": 45,
+    "name": "Ethernet Cable",
+    "description": "Durable network cable for stable connections",
+    "price": 179
+  },
+  {
+    "id": 46,
+    "name": "HDMI Cable",
+    "description": "High-speed cable for displays and TVs",
+    "price": 249
+  },
+  {
+    "id": 47,
+    "name": "Monitor",
+    "description": "24-inch display for work and entertainment",
+    "price": 9999
+  },
+  {
+    "id": 48,
+    "name": "Printer",
+    "description": "All-in-one printer for home and office",
+    "price": 6999
+  },
+  {
+    "id": 49,
+    "name": "Notebook Pen Set",
+    "description": "Pack of assorted pens for stationery use",
+    "price": 179
+  },
+  {
+    "id": 50,
+    "name": "Sticky Notes",
+    "description": "Colorful sticky notes for reminders",
+    "price": 99
+  },
+  {
+    "id": 51,
+    "name": "Scissors",
+    "description": "Multipurpose scissors for office or home",
+    "price": 129
+  },
+  {
+    "id": 52,
+    "name": "Tape Dispenser",
+    "description": "Desk tape dispenser with refill roll",
+    "price": 149
+  },
+  {
+    "id": 53,
+    "name": "Stapler",
+    "description": "Desk stapler for fastening documents",
+    "price": 199
+  },
+  {
+    "id": 54,
+    "name": "Paper Clips",
+    "description": "Pack of metal paper clips",
+    "price": 59
+  },
+  {
+    "id": 55,
+    "name": "Calculator",
+    "description": "Basic calculator for everyday arithmetic",
+    "price": 499
+  },
+  {
+    "id": 56,
+    "name": "Calendar",
+    "description": "Desk calendar for planning schedules",
+    "price": 149
+  },
+  {
+    "id": 57,
+    "name": "Candle",
+    "description": "Scented candle for room ambiance",
+    "price": 299
+  },
+  {
+    "id": 58,
+    "name": "Photo Frame",
+    "description": "Wooden frame for displaying photos",
+    "price": 249
+  },
+  {
+    "id": 59,
+    "name": "Plant Pot",
+    "description": "Decorative pot for indoor plants",
+    "price": 349
+  },
+  {
+    "id": 60,
+    "name": "Indoor Plant",
+    "description": "Small indoor plant for desks and shelves",
+    "price": 399
+  },
+  {
+    "id": 61,
+    "name": "Cookware Set",
+    "description": "Non-stick cookware set for kitchen use",
+    "price": 7999
+  },
+  {
+    "id": 62,
+    "name": "Knife Set",
+    "description": "Kitchen knife set with storage block",
+    "price": 4999
+  },
+  {
+    "id": 63,
+    "name": "Cutting Board",
+    "description": "Wooden cutting board for food prep",
+    "price": 399
+  },
+  {
+    "id": 64,
+    "name": "Frying Pan",
+    "description": "Non-stick frying pan for cooking",
+    "price": 1299
+  },
+  {
+    "id": 65,
+    "name": "Rice Cooker",
+    "description": "Electric rice cooker with keep-warm mode",
+    "price": 3499
+  },
+  {
+    "id": 66,
+    "name": "Blender",
+    "description": "Kitchen blender for smoothies and sauces",
+    "price": 2799
+  },
+  {
+    "id": 67,
+    "name": "Kettle",
+    "description": "Electric kettle for boiling water quickly",
+    "price": 1699
+  },
+  {
+    "id": 68,
+    "name": "Lunch Box",
+    "description": "Insulated lunch box for carrying meals",
+    "price": 599
+  },
+  {
+    "id": 69,
+    "name": "Thermos",
+    "description": "Vacuum flask for hot and cold drinks",
+    "price": 799
+  },
+  {
+    "id": 70,
+    "name": "Dinner Plate Set",
+    "description": "Set of ceramic plates for dining",
+    "price": 1299
+  },
+  {
+    "id": 71,
+    "name": "Pillow",
+    "description": "Soft sleeping pillow for restful nights",
+    "price": 699
+  },
+  {
+    "id": 72,
+    "name": "Bedsheet",
+    "description": "Cotton bedsheet set for home bedding",
+    "price": 899
+  },
+  {
+    "id": 73,
+    "name": "Blanket",
+    "description": "Warm blanket for comfortable sleep",
+    "price": 1499
+  },
+  {
+    "id": 74,
+    "name": "Curtains",
+    "description": "Room curtains for privacy and decor",
+    "price": 1199
+  },
+  {
+    "id": 75,
+    "name": "Towel Set",
+    "description": "Absorbent towel set for bathroom use",
+    "price": 899
+  },
+  {
+    "id": 76,
+    "name": "Soap Dish",
+    "description": "Bathroom soap dish with drainage slots",
+    "price": 99
+  },
+  {
+    "id": 77,
+    "name": "Laundry Basket",
+    "description": "Large basket for storing laundry",
+    "price": 799
+  },
+  {
+    "id": 78,
+    "name": "Iron",
+    "description": "Steam iron for garment care",
+    "price": 1799
+  },
+  {
+    "id": 79,
+    "name": "Vacuum Cleaner",
+    "description": "Compact vacuum cleaner for home cleaning",
+    "price": 8999
+  },
+  {
+    "id": 80,
+    "name": "Mop",
+    "description": "Microfiber mop for floor cleaning",
+    "price": 599
+  },
+  {
+    "id": 81,
+    "name": "Broom",
+    "description": "Household broom for sweeping floors",
+    "price": 249
+  },
+  {
+    "id": 82,
+    "name": "Dustpan",
+    "description": "Dustpan set for quick cleanup",
+    "price": 129
+  },
+  {
+    "id": 83,
+    "name": "Dish Soap",
+    "description": "Liquid dish soap for washing utensils",
+    "price": 159
+  },
+  {
+    "id": 84,
+    "name": "Detergent",
+    "description": "Laundry detergent for washing clothes",
+    "price": 399
+  },
+  {
+    "id": 85,
+    "name": "Hand Sanitizer",
+    "description": "Alcohol-based hand sanitizer gel",
+    "price": 79
+  },
+  {
+    "id": 86,
+    "name": "First Aid Kit",
+    "description": "Basic first aid kit for emergencies",
+    "price": 1199
+  },
+  {
+    "id": 87,
+    "name": "Bandage Roll",
+    "description": "Elastic bandage roll for support and care",
+    "price": 149
+  },
+  {
+    "id": 88,
+    "name": "Thermometer",
+    "description": "Digital thermometer for quick temperature checks",
+    "price": 499
+  },
+  {
+    "id": 89,
+    "name": "Notebook Planner",
+    "description": "Planner notebook for schedules and goals",
+    "price": 349
+  },
+  {
+    "id": 90,
+    "name": "Puzzle",
+    "description": "Jigsaw puzzle for leisure and focus",
+    "price": 599
+  },
+  {
+    "id": 91,
+    "name": "Board Game",
+    "description": "Family board game for group entertainment",
+    "price": 1499
+  },
+  {
+    "id": 92,
+    "name": "Playing Cards",
+    "description": "Standard deck of playing cards",
+    "price": 99
+  },
+  {
+    "id": 93,
+    "name": "Yoga Mat",
+    "description": "Non-slip mat for exercise and yoga",
+    "price": 1299
+  },
+  {
+    "id": 94,
+    "name": "Dumbbells",
+    "description": "Pair of dumbbells for home workouts",
+    "price": 2499
+  },
+  {
+    "id": 95,
+    "name": "Skipping Rope",
+    "description": "Fitness rope for cardio training",
+    "price": 299
+  },
+  {
+    "id": 96,
+    "name": "Tennis Ball",
+    "description": "Pack of tennis balls for practice",
+    "price": 199
+  },
+  {
+    "id": 97,
+    "name": "Football",
+    "description": "Standard football for outdoor play",
+    "price": 999
+  },
+  {
+    "id": 98,
+    "name": "Basketball",
+    "description": "Durable basketball for court games",
+    "price": 1199
+  },
+  {
+    "id": 99,
+    "name": "Cricket Bat",
+    "description": "Wooden cricket bat for recreational play",
+    "price": 1999
+  },
+  {
+    "id": 1778677861267,
+    "name": "Product test - 6",
+    "description": "description - 6",
+    "price": 700
+  }
+]

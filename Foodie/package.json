@@ -1,0 +1,19 @@
+{
+  "name": "foodie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch ./rsc/index.ts"
+  },
+  "keywords": [],
+  "type":"module",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^25.7.0"
+  },
+  "dependencies": {
+    "tsx": "^4.21.0"
+  }
+}

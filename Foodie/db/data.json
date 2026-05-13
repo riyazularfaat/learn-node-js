@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "customer": "Aisha",
+    "quantity": 2,
+    "food": "Kacchi Biryani",
+    "price": 18.5
+  },
+  {
+    "id": 2,
+    "customer": "Mohammed",
+    "quantity": 1,
+    "food": "Shorshe Ilish",
+    "price": 22
+  },
+  {
+    "id": 3,
+    "customer": "Hasan",
+    "quantity": 3,
+    "food": "Beef Bhuna",
+    "price": 33
+  },
+  {
+    "id": 4,
+    "customer": "Fatima",
+    "quantity": 4,
+    "food": "Chicken Rezala",
+    "price": 28
+  },
+  {
+    "id": 5,
+    "customer": "Omar",
+    "quantity": 2,
+    "food": "Luchi with Alur Dom",
+    "price": 12
+  },
+  {
+    "id": 6,
+    "customer": "Karim",
+    "quantity": 5,
+    "food": "Sorse Ilish Bhapa",
+    "price": 75
+  },
+  {
+    "id": 7,
+    "customer": "Saira",
+    "quantity": 1,
+    "food": "Tomato Chutney Pitha",
+    "price": 6.5
+  },
+  {
+    "id": 8,
+    "customer": "Rahim",
+    "quantity": 2,
+    "food": "Bhuna Khichuri",
+    "price": 16
+  },
+  {
+    "id": 9,
+    "customer": "Nadia",
+    "quantity": 6,
+    "food": "Fuchka",
+    "price": 24
+  },
+  {
+    "id": 10,
+    "customer": "Yusuf",
+    "quantity": 1,
+    "food": "Mishti Doi",
+    "price": 7.5
+  },
+  {
+    "id": 12,
+    "customer": "Hamid",
+    "quantity": 4,
+    "food": "Burger",
+    "price": 600
+  }
+]
