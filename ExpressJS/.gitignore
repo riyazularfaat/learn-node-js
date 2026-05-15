@@ -1,0 +1,24 @@
+# Ignore environment secrets
+.env
+*.local
+
+# Ignore dependency directories
+node_modules/
+bower_components/
+
+# Ignore build outputs and binaries
+dist/
+build/
+*.exe
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files, but keep a specific template log
+*.log
+!important.log
+
+#agents
+.agents
+.claude
